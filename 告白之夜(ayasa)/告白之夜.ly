@@ -63,18 +63,18 @@
     r4 fis,4 \upbow fis'4 e4
     
     e16 (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16) cis'8 d8
-    cis8 a8 \grace {e32 (fis32 e32)} d16 [(cis16)] 
+    cis8 a8 \times 2/3 {e16 (fis16 e16)} d16 [(cis16)] 
     
-    a8 [fis16 (e16)] fis4.
+    a8 [fis16 (e16)] fis4
     
     e'16 \downbow (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16)
     
     cis'8 d8 e8 fis2 (fis16) a16 [fis16 (e16 fis,8)]
      
     e16 (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16) cis'8 d8
-    cis8 a8 \grace {e32 (fis32 e32)} d16 [(cis16)] 
+    cis8 a8 \times 2/3 {e16 (fis16 e16)} d16 [(cis16)] 
     
-    a8 [fis16 (e16)] fis4.
+    a8 [fis16 (e16)] fis4
     
     b'8 [a8 e8 a8] fis16 [(e16 d8)] b8 a8
     
@@ -114,7 +114,7 @@
     r4 fis4 \upbow fis'4 e4
     
     e16 (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16) cis'8 d8
-    cis8 a8 \grace {e32 (fis32 e32)} d16 [(cis16)] 
+    cis8 a8 \times 2/3 {e16 (fis16 e16)} d16 [(cis16)] 
     
     a8 [fis16 (e16)] fis4.
     
@@ -123,7 +123,7 @@
     cis'8 d8 e8 fis2 (fis16) a16 [fis16 (e16 fis,8)]
      
     e16 (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16) cis'8 d8
-    cis8 a8 \grace {e32 (fis32 e32)} d16 [(cis16)] 
+    cis8 a8 \times 2/3 {e16 (fis16 e16)} d16 [(cis16)] 
     
     a8 [fis16 (e16)] fis4.
     
