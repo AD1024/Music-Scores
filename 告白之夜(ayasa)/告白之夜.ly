@@ -43,11 +43,11 @@
     
     fis2 b,8. [b16] cis16 d16 e16 (fis16)
     
-    e2 a,8. [a16] cis16 b16 cis16 (d16)
+    e2 a,8. [a16] d16 cis16 d16 (e16)
     
-    cis2 gis4 r16 cis16 (b16 cis16) 
+    d2 gis,4 r16 d'16 (cis16 d16) 
     
-    cis4 \downbow g4 \times 2/3 {fis16 [(g16 fis16)]}  e16 \downbow ([fis16]) gis16 [(cis16) d16 e16]
+    d4 \downbow g,4 \times 2/3 {fis16 [(g16 fis16)]}  e16 \downbow ([fis16]) gis16 [(cis16) d16 e16]
     
     fis2 b,8. ([b16]) cis16 (d16 e16 fis16)
     
@@ -93,7 +93,7 @@
     
     << d2. a'2. fis'2. >> d4
     
-    (d8) r8 bes8 [g8 bes8 g8 bes8 d8] e8 [d8 e8 g8 bes8 g8 bes8 d8]
+    r8 bes16 [g16 bes16 g16 bes16 d16] e16 [d16 e16 g16 bes16 g16 bes16 d16]
     
     e16 [(e16. d16)] e16 [(e16. d16)] e16 [(e16. d16)] e16 [e16 e16 d16] e16 fis8
     
@@ -103,7 +103,7 @@
     
     r8 r16 fis2 g16 ([a16])
     
-    b4. d8 cis8 ais8 fis8 e8 e8. \times 2/3 {d16 (e16 e16)} fis4. fis16 [g16 a8.]
+    b4. d8 cis8 ais8 fis8 e8 e8. \times 2/3 {d16 (e16 a16)} fis4. fis16 [g16 a8.]
     
     b16 [b,16 cis16 d16] e16 [d16 e16 fis16] (fis16) [d'16 d16 d16] e16 [d16 e16 f16] fis2
     
