@@ -116,7 +116,7 @@
     e16 (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16) cis'8 d8
     cis8 a8 \times 2/3 {e16 (fis16 e16)} d16 [(cis16)] 
     
-    a8 [fis16 (e16)] fis4.
+    a8 [fis16 (e16)] fis4
     
     e'16 \downbow (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16)
     
@@ -125,7 +125,7 @@
     e16 (fis16) a8 fis8 e16 (fis16) a8 e16 (fis16) cis'8 d8
     cis8 a8 \times 2/3 {e16 (fis16 e16)} d16 [(cis16)] 
     
-    a8 [fis16 (e16)] fis4.
+    a8 [fis16 (e16)] fis4
     
     b'8 [a8 e8 a8] fis16 [(e16 d8)] b8 a8
     
