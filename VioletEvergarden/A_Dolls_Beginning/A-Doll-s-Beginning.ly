@@ -54,6 +54,8 @@
   % 没有女装 这辈子不会女装的！
   % ??? 造谣禁止(认真)
   % 我都要把你们的罪行传到github上去(笑
+  % wdnmd hls
+  % 溜了溜了.....
   e8 (fis8) gis8. (e16) fis2
   
   r8 e'8 (dis8 e8 b4) gis4 fis4 gis4 e2
