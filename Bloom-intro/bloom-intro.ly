@@ -11,7 +11,7 @@
     \time 3/4
     \key f \major
         \repeat volta 2 { 
-            d8 a'8 f'4. (e8)
+            \upbow d8 (a'8) f'4. (e8)
             \new Voice = "melody" {
                 <<
                 {
@@ -30,7 +30,7 @@
             a8 a,8 <<f''4. a,4>> e'8
             gis,8 ([e'8]) f8 [(e8) gis8 e8]
             << a4 cis,4 >> << e4 a,4 >> << a4 cis,4 >>
-            \downbow d8 a'8 f'4. (g16 f16)
+            \downbow d8 (a'8) f'4. (g16 f16)
             \new Voice = "melody" {
                 <<
                 {
@@ -43,7 +43,7 @@
                 }
                 >>
             }
-            << fis8 a,8 d,8 >> a''8 d4. (a8)
+            << fis8 a,8 d,8 >> a''8 d4. a8
             << d,8 bes'8  >> [g8 d8 c8] bes4
             << c8 e,8 c8 >> g''8 c4. (g8)
             a8 [f8 c8 a8] f4
