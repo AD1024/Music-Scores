@@ -5,7 +5,6 @@
   subtitle = "OST from Wuthering Waves"
   instrument = "Violin"
   composer = "gokou & jkinss"
-  arranger = "AD1024"
   copyright = "Kuro Games"
 
 }
